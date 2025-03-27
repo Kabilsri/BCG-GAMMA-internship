@@ -1,4 +1,4 @@
-# BCG GAMMA Internship - README
+# BCG GAMMA project - README
 
 ## Overview
 This repository contains work completed during my internship at BCG GAMMA. The project focuses on applying advanced analytics, machine learning, and data science techniques to solve a business challenge for a client. The key areas of contribution include data preprocessing, model development, evaluation, and business insights.
